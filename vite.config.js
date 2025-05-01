@@ -30,4 +30,7 @@ export default defineConfig({
       force: true,
     },
   },
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/shopee_web/'
+    : '/'
 });
