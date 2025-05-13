@@ -56,11 +56,11 @@
   <img
     src="https://skillicons.dev/icons?i=vue"
     alt="Vue.js Icon"
-    width="20"
-    height="20"
-    style="vertical-align: middle;margin-top:-50px"
-  /> 前端：Vue.js
- 
+    width="15"
+    height="15"
+    style="vertical-align: middle;"
+  />
+    前端：Vue.js
 
 * 後端：Spring Boot, Java
 
