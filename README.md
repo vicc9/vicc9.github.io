@@ -54,18 +54,16 @@
 
 ## 技術棧 (Tech Stack)
 
-<a href="https://skillicons.dev" style=" vertical-align: middle;">
+<a href="https://skillicons.dev" style=" text-decoration: none;vertical-align: middle;">
   <img
     src="https://skillicons.dev/icons?i=vue"
     alt="Vue.js Icon"
     width="20"
-    height="15"
+    height="20"
     style="vertical-align: middle;"
   />
-  <span style="text-decoration: none;vertical-align: middle; margin-left: 4px;">
-    前端：Vue.js
-  </span>
-</a>
+      前端：Vue.js
+  </a>
 
 * 後端：Spring Boot, Java
 
