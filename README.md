@@ -1,29 +1,78 @@
-# 商城專案
+# 商城專案(E-commerce Platform)
 
-This template should help get you started developing with Vue 3 in Vite.
+一個功能完整的電子商務平台，包含以下主要功能：
 
-## Recommended IDE Setup
+* 幫助中心 (Help Center)：提供問題諮詢與常見問題 (FAQ) 系統。
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+* 即時聊天室 (Chat Room)：買家與客服、賣家或其他用戶即時互動。
 
-## Customize configuration
+* 優惠券管理 (Coupons)：發放、領取與使用優惠券，提升購物體驗。
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 專案簡介(Project Overview)
 
-## Project Setup
+此專案是一個模組化、易擴充的電子商務平台，目標提供用戶流暢的購物體驗。平台結合以下三大核心模組：
 
-```sh
-npm install
-```
+* 幫助中心：集中管理使用者疑問、常見問題與教學資源。
 
-### Compile and Hot-Reload for Development
+* 聊天室：即時溝通工具，可應用於客服支援或買家/賣家互動。
 
-```sh
-npm run dev
-```
+* 優惠券：簡化優惠券的發放、領取與使用流程，並支援後台管理。
 
-### Compile and Minify for Production
+## 主要功能(Features)
 
-```sh
-npm run build
-```
+#### 幫助中心 (Help Center)
+* FAQ 列表與關鍵字搜尋
+  
+* 問題分類管理
+  
+* 單頁說明文章
+  
+* 客服聊天室進入點
+
+#### 即時聊天室 (Chat Room)
+* WebSocket 實時通訊
+  
+* 一對一客服對話
+  
+* 未讀消息提醒與歷史紀錄
+  
+#### 優惠券管理 (Coupons)
+
+* 後台發放優惠券
+
+* 使用者領取與兌換
+
+* 優惠券有效期限與數量限制
+
+* 分頁、搜尋與排序功能
+
+## 團隊分工 (Team Roles)
+
+我負責幫助中心、即時聊天室、優惠券前台申請及後台管理員審核功能
+
+其他小組成員: 負責商品管理、購物車、訂單處理等其餘模組
+
+## 技術棧 (Tech Stack)
+
+<a href="https://skillicons.dev" style=" vertical-align: middle;">
+  <img
+    src="https://skillicons.dev/icons?i=vue"
+    alt="Vue.js Icon"
+    width="20"
+    height="15"
+    style="vertical-align: middle;"
+  />
+  <span style="text-decoration: none;vertical-align: middle; margin-left: 4px;">
+    前端：Vue.js
+  </span>
+</a>
+
+* 後端：Spring Boot, Java
+
+* ORM：Hibernate
+
+* 資料庫：MySQL / PostgreSQL
+
+* 即時通訊：Socket.io / WebSocket
+
+* 驗證授權：JWT
