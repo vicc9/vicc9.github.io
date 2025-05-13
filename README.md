@@ -53,16 +53,14 @@
 其他小組成員: 負責商品管理、購物車、訂單處理等其餘模組
 
 ## 技術棧 (Tech Stack)
-
-<a href="https://skillicons.dev">
   <img
     src="https://skillicons.dev/icons?i=vue"
     alt="Vue.js Icon"
     width="20"
     height="20"
-    style="vertical-align: middle;"
-  />  
-  </a>前端：Vue.js
+    style="vertical-align: middle;margin-top:-50px"
+  /> 前端：Vue.js
+ 
 
 * 後端：Spring Boot, Java
 
