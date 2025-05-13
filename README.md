@@ -54,7 +54,7 @@
 
 ## 技術棧 (Tech Stack)
 
-<a href="https://skillicons.dev" style="vertical-align: middle;">
+<a href="https://skillicons.dev" style="vertical-align: middle;margin-top:5px">
   <img
     src="https://skillicons.dev/icons?i=vue"
     alt="Vue.js Icon"
