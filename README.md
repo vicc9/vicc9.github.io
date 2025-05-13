@@ -53,32 +53,14 @@
 其他小組成員: 負責商品管理、購物車、訂單處理等其餘模組
 
 ## 技術棧 (Tech Stack)
-  <img
-    src="https://skillicons.dev/icons?i=vue"
-    alt="Vue.js Icon"
-    width="18"
-    height="18"
-    style="vertical-align: middle;"
-  /> 前端：Vue.js
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,java,hibernate&theme=light)](https://skillicons.dev)
+* 前端：Vue.js
 
-<img
-    src="https://skillicons.dev/icons?i=spring"
-    alt="Vue.js Icon"
-    width="18"
-    height="18"
-    style="vertical-align: middle;"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=java"
-    alt="Vue.js Icon"
-    width="18"
-    height="18"
-    style="vertical-align: middle;"
-  /> 後端：Spring Boot, Java
+* 後端：Spring Boot, Java
 
 * ORM：Hibernate
 
-* 資料庫：MySQL / PostgreSQL
+* 資料庫：Microsoft SQL Server
 
 * 即時通訊：Socket.io / WebSocket
 
