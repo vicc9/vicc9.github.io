@@ -59,10 +59,15 @@
     width="15"
     height="15"
     style="vertical-align: middle;"
-  />
-    前端：Vue.js
+  />前端：Vue.js
 
-* 後端：Spring Boot, Java
+<img
+    src="https://skillicons.dev/icons?i=spring,java"
+    alt="Vue.js Icon"
+    width="20"
+    height="20"
+    style="vertical-align: middle;"
+  /> 後端：Spring Boot, Java
 
 * ORM：Hibernate
 
